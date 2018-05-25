@@ -1,0 +1,18 @@
+[debug] [2018-05-25T21:50:24.694Z] ----------------------------------------------------------------------
+[debug] [2018-05-25T21:50:24.696Z] Command:       /usr/local/Cellar/node/8.9.1/bin/node /usr/local/bin/firebase deploy
+[debug] [2018-05-25T21:50:24.696Z] CLI Version:   3.18.5
+[debug] [2018-05-25T21:50:24.696Z] Platform:      darwin
+[debug] [2018-05-25T21:50:24.696Z] Node Version:  v10.0.0
+[debug] [2018-05-25T21:50:24.698Z] Time:          Fri May 25 2018 14:50:24 GMT-0700 (PDT)
+[debug] [2018-05-25T21:50:24.698Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-05-25T21:50:24.711Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-05-25T21:50:24.711Z] > authorizing via signed-in user
+[debug] [2018-05-25T21:50:24.713Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/actions-codelab-7a25b  
+  
+ Fri May 25 2018 14:50:24 GMT-0700 (PDT)
+[debug] [2018-05-25T21:50:25.040Z] <<< HTTP RESPONSE 200
+[debug] [2018-05-25T21:50:25.042Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/actions-codelab-7a25b/tokens  
+  
+ Fri May 25 2018 14:50:25 GMT-0700 (PDT)
+[debug] [2018-05-25T21:50:25.321Z] <<< HTTP RESPONSE 200
